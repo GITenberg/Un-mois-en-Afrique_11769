@@ -1,0 +1,32 @@
+_repo: Un-mois-en-Afrique_11769
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bonaparte, Pierre Napoléon, prince
+    aliases:
+    - Bonaparte, Pietro, prince
+    - Bonaparte, Pierre Napoleon, prince
+    birthdate: 1815
+    deathdate: 1881
+    gutenberg_agent_id: '4102'
+    url: http://www.gutenberg.org/2009/agents/4102
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Napoleon_Bonaparte
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11769'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France. Armée. Légion étrangère -- History -- 19th century'
+- !lcc 'DC'
+- !lcc 'DT'
+- !lcsh 'Algeria -- History -- 1830-1962'
+- !lcsh 'Bonaparte, Pierre Napoléon, prince, 1815-1881'
+- GITenberg
+title: Un mois en Afrique
+url: http://www.gutenberg.org/ebooks/11769
