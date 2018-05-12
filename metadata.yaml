@@ -1,5 +1,8 @@
 _repo: Un-mois-en-Afrique_11769
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bonaparte, Pierre Napoléon, prince
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4102
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Napoleon_Bonaparte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11769#Un-mois-en-Afrique
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
